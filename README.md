@@ -1,4 +1,5 @@
 # User Roles SQL Schema
+> ✅ Status: Completed
 
 Relational database design project converting an ER diagram into SQL Server tables.
 
